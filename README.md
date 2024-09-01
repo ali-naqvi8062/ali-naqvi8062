@@ -12,7 +12,7 @@
 
 🏆 Passionate about bringing tech ideas to life and always eager to learn something new
 
-📫 How to reach me:
+📫 How to reach me: LinkedIn or via email at: ali.naqvi8062@gmail.com
 
 <!--
 **ali-naqvi8062/ali-naqvi8062** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
