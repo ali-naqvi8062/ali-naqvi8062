@@ -2,15 +2,13 @@
 
 👋 Hi, I'm Ali!
 
-💻 Aspiring Computer Engineer | Tech Enthusiast | Problem Solver
+🎓 3rd Year Computer Engineering Student @ McMaster University
 
-🎓 Computer Engineering Student at McMaster University
+🚀 Exploring the world of Embedded Systems, FPGAs and AI.
 
-🚀 Exploring the world of Embedded Systems, Game Development, and Web Development.
+🔧 Currently learning openGL and collaborating on a Mars Rover design with ROS2, SLAM and more!
 
-🔧 Currently diving deep into Linux, Driver Development, and building my portfolio with hands-on projects.
-
-🏆 Passionate about bringing tech ideas to life and always eager to learn something new
+🏆 Passionate about bringing my ideas to life and always eager to learn something new
 
 📫 How to reach me: LinkedIn or via email at: ali.naqvi8062@gmail.com
 
