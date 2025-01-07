@@ -6,7 +6,7 @@
 
 🚀 Exploring the world of Embedded Systems, FPGAs and AI.
 
-🔧 Currently learning openGL and collaborating on a Mars Rover design with ROS2, SLAM and more!
+🔧 Currently working on implementing a Software Defined Radio System in C++!
 
 🏆 Passionate about bringing my ideas to life and always eager to learn something new
 
