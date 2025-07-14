@@ -4,9 +4,9 @@
 
 🎓 I'm a 3rd Year Computer Engineering Student @ McMaster University
 
-🚀 Love exploring the world of Embedded Systems, FPGAs and AI.
+🚀 Exploring the world of Artificial Intelligence and Software Engineering.
 
-🔧 Currently working on implementing a Software Defined Radio System in C++!
+🔧 Currently working as an AI Engineer @ Huawei Canada!
 
 🏆 I'm passionate about bringing my ideas to life and always eager to learn something new
 
