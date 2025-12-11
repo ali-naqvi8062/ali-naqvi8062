@@ -2,7 +2,7 @@
 
 👋 Hey, I'm Ali!
 
-🎓 I'm a 3rd Year Computer Engineering Student @ McMaster University
+🎓 I'm a 4th Year Computer Engineering Student @ McMaster University
 
 🚀 Exploring the world of Artificial Intelligence and Software Engineering.
 
