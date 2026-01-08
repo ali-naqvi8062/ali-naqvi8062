@@ -6,11 +6,9 @@
 
 🚀 Exploring the world of Artificial Intelligence and Software Engineering.
 
-🔧 Currently working as an AI Engineer @ Huawei Canada!
-
 🏆 I'm passionate about bringing my ideas to life and always eager to learn something new
 
-📫 Reach me via LinkedIn or through email at: ali.naqvi8062@gmail.com
+📫 Reach me via LinkedIn or through my email at: ali.naqvi8062@gmail.com
 
 <!--
 **ali-naqvi8062/ali-naqvi8062** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
